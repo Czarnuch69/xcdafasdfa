@@ -1,0 +1,41 @@
+body{
+    background-color: #EEEEEE;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 90%;
+    margin: auto;
+}
+#logo{
+    background-color: lightblue;
+    height: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 50%;
+}
+#menu{
+    background-color: lightblue;
+    height: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 50%;
+    float: right;
+    display: flex;
+}
+#link2{
+    margin-left: 40px;
+}
+#link3{
+    margin-left: 40px;
+}
+#baner{
+    position: relative;
+    top: -10px;
+    background-color: #DDDDDD;
+    height: 200px;
+}
+footer{
+    background-color: lightblue;
+    margin-bottom: 10px;
+    text-align: right;
+    height: 30px;
+    line-height: 30px;
+}
